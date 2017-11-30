@@ -6,4 +6,4 @@ He movido la disposición de los botones un poco más arriba donde estaban los i
 
 El botón Start es intercambiable con el botón Pause pero como no estamos usando JavaScript para realizar este proyecto la función que le he otorgado al botón es la de refrescar la página, el botón reiniciar también recarga la página en lugar de reiniciar el juego (A efectos prácticos es lo mismo reiniciar o recargar la página en este caso) y por último el botón de opciones que tendría que llevar al menú he hecho que lo redireccione al apartado más importante que tendría dicho menú: Las instrucciones, dónde se muestra una sencilla página con colores de la temática del juego y la nave (Gris) con las instrucciones del juego y un botón en la parte inferior de la pantalla que nos permite volver a la página del juego.
 
-Rawgit: https://rawgit.com/HighYitan/Lunar-Lander-CSS/master/nave.html
+Mi link de desarrollador de Rawgit: https://rawgit.com/HighYitan/Lunar-Lander-CSS/master/nave.html
